@@ -30,7 +30,6 @@ function preload() {
 	water = loadImage('truewater.png');
 	frog = loadImage('frog.png');
 	jump = loadImage("frog_jump.png");
-	bottle = loadImage('bottle.png');
 }
 
 function setup() {
