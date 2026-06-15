@@ -25,6 +25,9 @@ let jumpScroll = 0;
 let reset = 0;
 let tick = 0;
 let values = []
+
+let lilypad, water, frog, jump;
+
 function preload() {
 	lilypad = loadImage('lilypad.png');
 	water = loadImage('truewater.png');
